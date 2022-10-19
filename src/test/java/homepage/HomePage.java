@@ -53,7 +53,7 @@ public class HomePage {
 		
 		driver.findElement(By.cssSelector("div.popup-blk.cart-blk")).click();
 		System.out.println("***&&&&&");
-
+		System.out.println("***&&&&fgesg&");
 	}
 
 }
